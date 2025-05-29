@@ -8,5 +8,3 @@
 ♟️ Clear display of queen placements and conflicts.
 
 🖼️ Animated solving process for better understanding.
-
-🌗 Light/Dark mode support (optional).
